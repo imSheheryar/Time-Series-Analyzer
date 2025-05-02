@@ -1,8 +1,8 @@
 # Time Series Analysis Visualizer
 
 <div align="center">
-  <img src="screenshots/ss1.jpg" alt="Time Series Analysis Dashboard" width="800"/>
-  <img src="screenshots/image overview.jpg" alt="Project Overview" width="800"/>
+  <img src="timeSeriesAnalysis/Screenshots/ss1.jpg" alt="Time Series Analysis Dashboard" width="800"/>
+
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
